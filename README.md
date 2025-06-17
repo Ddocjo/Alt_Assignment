@@ -21,7 +21,7 @@ Deployment & Security
 - Hosted via public IP: `http://13.60.76.254/`
 
 
-![Screenshot](Altschool.png)
+![Screenshot](altschool.png)
 
 
 
